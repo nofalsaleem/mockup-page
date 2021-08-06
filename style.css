@@ -378,7 +378,7 @@
 }
 .btn{
   position: relative;
-       background-color: rgb(19, 19, 112);
+        background-color: #18407C;
        border-radius: 20px ;
       font-size: 20px;
       color:white;
@@ -529,11 +529,8 @@ color:white;
     position: relative;
   margin:30px;
     text-align:center ;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    padding-left: 20px;
-    padding-right: 20px;
-    background-color: rgb(13, 13, 139);
+  
+     background-color: #18407C;
     font-size:20px;
     color:white; 
     border-radius: 20px;
