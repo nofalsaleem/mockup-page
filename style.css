@@ -533,7 +533,7 @@ color:white;
      background-color: #18407C;
     font-size:20px;
     color:white; 
-    border-radius: 40px;
+    border-radius: 40px solid #18407C ;
 }
 
 @media screen and (min-width: 320px) and (max-width: 580px) {
