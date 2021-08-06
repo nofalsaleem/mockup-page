@@ -378,13 +378,13 @@
 }
 .btn{
   position: relative;
-        background-color:#18407C;
-       border-radius: 20px ;
-      font-size: 20px;
-      color:white;
-      padding: 20px;
-      margin:30px;
-      width:100%;
+  background-color: #18407C;
+  border-radius: 20px ;
+  font-size: 20px;
+  color:white;
+  padding: 20px;
+  margin:30px;
+  width:100%;
      
 }
 
